@@ -1,0 +1,19 @@
+h1{
+    color:crimson;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height:600px;
+    width:500px;
+    background-color:chartreuse;
+    padding:50px;
+    border:15px green dotted;
+}
+#spanId {
+    font-size:25px;
+    margin:50px;
+}
+a {
+    font-size: 15px;
